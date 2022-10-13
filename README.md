@@ -1,5 +1,4 @@
-# django-ajax-jquery-chained-dropdown
-
+# django Ajax Jquery Chained Dropdown
 ## Start Prject
 ## Start App
 ## Make Migrations
