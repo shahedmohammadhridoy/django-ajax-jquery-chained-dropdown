@@ -1,6 +1,6 @@
 # django Ajax Jquery Chained Dropdown
 ## Start Prject
-Create a project
+Create a project with your desired name here I use 'mydropdown'
 ```
 $ django-admin startproject mydropdown
 ```
