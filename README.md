@@ -10,6 +10,7 @@ Write the following command in terminal to make a app in your project with your 
 ```
 python manage.py startapp dropdown
 ```
+## Make Template File
 ## Make Migrations
 ## Migrate
 ## Create Super User
