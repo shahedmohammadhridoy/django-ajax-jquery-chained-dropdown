@@ -30,14 +30,6 @@ mkdir dropdown/templates
 Create two template (html) in this folder
 1. index.html
 2. courses_dropdown_list_options.html
-### index.html
-```
-
-```
-### courses_dropdown_list_options.html
-```
-
-```
 ## view.py
 ## url.py
 ## write URL
