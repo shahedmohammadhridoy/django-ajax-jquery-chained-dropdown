@@ -10,7 +10,11 @@ Write the following command in terminal to make a app in your project with your 
 ```
 python manage.py startapp dropdown
 ```
-## Make Template File
+## Make Templates Directory
+After creating app we will create a directory in our app folder named templates where we will put our all template files. To create directory using terminal write the following command
+```
+mkdir dropdown/templates
+```
 ## Make Migrations
 ## Migrate
 ## Create Super User
