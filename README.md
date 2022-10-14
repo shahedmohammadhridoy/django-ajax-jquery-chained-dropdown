@@ -7,6 +7,7 @@ $ django-admin startproject mydropdown
 After this command you will get a folder as the name before wrote. Open the folder in IDE.
 ## Start App
 Write the following command in terminal to make a app in your project with your desired name. Here I use "dropdown" as my app name.
+
 ```
 python manage.py startapp dropdown
 ```
