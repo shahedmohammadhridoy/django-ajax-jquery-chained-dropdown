@@ -10,6 +10,8 @@ Write the following command in terminal to make a app in your project with your 
 ```
 python manage.py startapp dropdown
 ```
+## Declare you app name in app settings
+
 ## Create Models
 
 ## Make Templates Directory
