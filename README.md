@@ -11,7 +11,14 @@ Write the following command in terminal to make a app in your project with your 
 python manage.py startapp dropdown
 ```
 ## Declare your app name in settings
-
+```
+INSTALLED_APPS = [
+    'dropdown',
+    ...
+    ...
+    ...
+]
+```
 ## Create Models
 
 ## Make Templates Directory
